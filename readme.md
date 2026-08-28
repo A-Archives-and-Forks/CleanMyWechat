@@ -44,16 +44,6 @@ https://wwbie.lanzoue.com/iQlBl3v2rk6f)
 
 ![](images/wechatdisk.png)
 
-## Star History
-
-<a href="https://www.star-history.com/?type=date&repos=blackboxo%2FCleanMyWechat">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=blackboxo/CleanMyWechat&type=date&theme=dark&legend=top-left&sealed_token=DaZSGdkfH0eN1_FMODq8_T4qnX1XWj__nZCfBX0zaijuj90RP2hCrljELrMJer3tzPetSKKjwHR5-70Up7ImF-nTnGstPFYV9EOEKe3fHPyRr1nOU-1MVfoUn-gRTZSFS2TiG-1WPZXLVOJLCiTqmH6HeMpcU38u6V5SLoOwfbprkyYsdXNXi2tDW2--" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=blackboxo/CleanMyWechat&type=date&legend=top-left&sealed_token=DaZSGdkfH0eN1_FMODq8_T4qnX1XWj__nZCfBX0zaijuj90RP2hCrljELrMJer3tzPetSKKjwHR5-70Up7ImF-nTnGstPFYV9EOEKe3fHPyRr1nOU-1MVfoUn-gRTZSFS2TiG-1WPZXLVOJLCiTqmH6HeMpcU38u6V5SLoOwfbprkyYsdXNXi2tDW2--" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=blackboxo/CleanMyWechat&type=date&legend=top-left&sealed_token=DaZSGdkfH0eN1_FMODq8_T4qnX1XWj__nZCfBX0zaijuj90RP2hCrljELrMJer3tzPetSKKjwHR5-70Up7ImF-nTnGstPFYV9EOEKe3fHPyRr1nOU-1MVfoUn-gRTZSFS2TiG-1WPZXLVOJLCiTqmH6HeMpcU38u6V5SLoOwfbprkyYsdXNXi2tDW2--" />
- </picture>
-</a>
-
 ## 关注开发者
 
 欢迎在小红书关注开发者，获取最新动态与更新资讯：
